@@ -1,7 +1,8 @@
-## Code your solution below. Note that your SQL queries should be in quotation marks. 
+# Language: Ruby, Level: Level 3
+## Code your solution below. Note that your SQL queries should be in quotation marks.
 
 def highest_student_gpa
-  
+  SELECT 
 end
 
 def lowest_student_gpa
